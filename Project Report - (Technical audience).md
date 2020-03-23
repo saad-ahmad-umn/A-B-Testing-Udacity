@@ -9,7 +9,6 @@
 - The design team's hypothesis is that a new feature will set clearer expectations for students upfront, thus reducing the number of frustrated students who left the free trial because they did not have sufficient time. This should be accompanied by a non-substantial reduction in the number of students who continue past the free trial and eventually complete the course
  - If this hypothesis holds true, it would lead to a more positive experience for users, and also help Udacity in capacity planning of coaches, with a more realistic figure for students who intend to complete the course (visual walkthrough and detailed explanation given in next section)
 
-
 ## C. Causal Question
 The design team wants to assess if a proposed new feature improves user experience and elevates retention. This will be measured through the maximization of two metrics - course completion and retention of students post free trial period.
 
