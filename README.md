@@ -27,7 +27,7 @@ _Visitors who experienced this flow are a part of Control Group_
 <IMAGE: Initial Flow>
 
  1.  Udacity courses currently have two options on the course overview page: "Access Course Materials" and "Start Free Trial"
- 2.  If a student clicks on **Start Free Trial**, they will be asked to enter their credit card details, and subsequently enrolled in a free trial of the paid version of the course. After 14 days, they will be charged automatically, unless they cancel the subscription first.
+ 2.  If a student clicks on **Start Free Trial**, they will be asked to enter their credit card details, and subsequently enrolled in a free trial of the paid version of the course. After 14 days, they will be charged automatically, unless they cancel the subscription first
  4.  If the student clicks **Access Course Materials**, they will be able to access course materials (like viewing videos or taking the quiz for lessons) for free, but they will not receive a verified certificate or coaching support. Additionally, they cannot submit their final project for personalised feedback.
 
 ## B. Website user experience change, after the experiment
