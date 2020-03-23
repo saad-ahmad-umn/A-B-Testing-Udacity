@@ -1,5 +1,4 @@
-# Design change on Udacity's website: 
-# Testing if the new feature improves user experience and elevates retention
+# Design change on Udacity's website: Testing if the new feature improves user experience and elevates retention
 
 # Business Context
 ## A. Background
