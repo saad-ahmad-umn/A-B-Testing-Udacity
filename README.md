@@ -12,6 +12,6 @@ The design team wants to assess if a proposed new feature improves user experien
 ## Repository Summary
 
 This repository contains the following files:
-- Project Report (Business audience) : This contains the problem objective, high level approach and a summary of the insights and recommendations from the analysis. This is intended for a business audience
-- Project Report (Technical audience) : This contains the detailed technical approach and is intended for a technical audience
-- Code : This has the R codes used for the analysis
+- Project Report (Business audience) : This has the problem objective, high level approach and a summary of the insights and recommendations from the analysis. This is intended for a business audience.
+- Project Report (Technical audience) : This has the detailed technical approach and is intended for a technical audience.
+- Code : This has the R codes used for the analysis.
