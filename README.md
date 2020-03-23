@@ -9,7 +9,7 @@
 ## Problem Objective
 The design team wants to assess if a proposed new feature improves user experience and elevates retention. This will be measured through the maximization of two metrics - course completion and retention of students post free trial period.
 
-## Repository Details:
+## Repository Details
 
 This repository contains the following files:
 - Project Report (Business audience) : This contains the problem objective, high level approach and a summary of the insights and recommendations from the analysis. This is intended for a business audience
